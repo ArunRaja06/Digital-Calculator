@@ -1,0 +1,26 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  background: linear-gradient(90deg, #fcff9e 0%, #c67700 100%);
+}
+.container{
+  font-family: 'Times New Roman', Times, serif;
+  border: 3px solid whitesmoke;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width:100vw;
+  height:100vh;
+}
+.box-container{
+  background-color:black;
+  color: aliceblue;
+  border-radius:30px;
+  padding: 1rem;
+  font-size: 3rem;
+}
+#ampm{
+  font-size: 30px;
+}
